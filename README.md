@@ -1,2 +1,1 @@
-# my_portfolio
-my repo have my portfolio
+My personal portfolio website using html and css 
